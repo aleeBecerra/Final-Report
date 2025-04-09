@@ -20,7 +20,7 @@ Sección: 4334
 
 Profesor: Hugo Allan Mori Paiva
 
-“Informe de TB1”
+Informe de TB1
 
 Startup: GrupoLatex
 
@@ -83,7 +83,7 @@ Abril 2025
 
 # **Project Report Collaboration Insights**
 
-URL Project Report (Github): 
+URL Project Report (Github): [https://github.com/GrupoLatex-SI0729-2510-4334/Final-Report](https://github.com/GrupoLatex-SI0729-2510-4334/Final-Report)
 
 # **Student Outcome**
 <p align ="justify">
