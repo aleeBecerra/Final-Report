@@ -32,7 +32,7 @@ Grupo: 01
 |:--------------------------------:|:-----------:|
 | Diego Ivan Cabrera Buitron |  |
 | Andrea Elizabeth Santur Tello |  |
-| Alessandra Nicole Becerra Tejeda |  |
+| Alessandra Nicole Becerra Tejeda | U202318947 |
 | Joaquin Andree Pedraza Maldonado |  |
 | Pedro Jesus Nanfuñay Liza |  |
 
