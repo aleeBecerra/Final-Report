@@ -3,14 +3,6 @@ La introducción desempeña un papel fundamental en la estructuración y compren
 
 ## 1.1. Startup Profile
 
-El **startup profile** constituye un componente esencial para comprender en profundidad la esencia y dirección estratégica de dicha empresa emergente. Este perfil no solo revela su visión a futuro y los valores fundamentales que la guían, sino que también permite entender de manera clara cuál es su propuesta de valor diferenciadora en el mercado.
-
-En esta sección, se abordarán los aspectos más relevantes que conforman la identidad de la startup, tales como su historia de origen, las motivaciones detrás de su creación, el problema que busca resolver, y la manera en que su enfoque innovador le permite destacar frente a la competencia.
-
-Además, se examinarán sus metas a mediano y largo plazo, así como las estrategias que utiliza para crecer y posicionarse en el sector al que pertenece. Comprender estos elementos es clave para valorar el potencial del **startup profile** y el impacto que puede generar en su entorno.
-
-### 1.1.1. Descripción de la Startup
-
 TocaAquí es una plataforma web integral desarrollada para músicos emergentes y espacios culturales como bares, discotecas, centros culturales y promotores de eventos. Su propósito es facilitar la contratación directa de artistas, gestionar espacios disponibles, coordinar la logística de los shows, organizar la programación musical y promover presentaciones en vivo.
 
 A través de una experiencia personalizable tanto para bandas como para promotores, la plataforma ofrece herramientas innovadoras como la firma digital de contratos, pagos seguros mediante un sistema escrow, agenda compartida y promoción automatizada con entradas digitales.
@@ -26,6 +18,8 @@ Ofrecer una plataforma digital integral que conecte a músicos emergentes con es
 
 **Visión:**
 Ser la plataforma referente en la profesionalización de la escena musical independiente en Latinoamérica, potenciando el talento emergente, fortaleciendo los lazos entre artistas y promotores, y dinamizando la oferta cultural mediante tecnología innovadora, accesible y confiable.
+
+### 1.1.1. Descripción de la Startup
 
 
 ### 1.1.2. Perfiles de integrantes del equipo
