@@ -4,11 +4,6 @@ La introducción desempeña un papel fundamental en la estructuración y compren
 ## 1.1. Startup Profile
 
 
-**Misión:**
-Ofrecer una plataforma digital integral que conecte a músicos emergentes con espacios culturales y promotores de eventos, facilitando la contratación, programación, logística y promoción de presentaciones musicales. A través de herramientas modernas como la firma digital, pagos seguros, agenda compartida y promoción automatizada, buscamos profesionalizar la industria musical independiente y brindar una experiencia transparente y eficiente para todos los usuarios.
-
-**Visión:**
-Ser la plataforma referente en la profesionalización de la escena musical independiente en Latinoamérica, potenciando el talento emergente, fortaleciendo los lazos entre artistas y promotores, y dinamizando la oferta cultural mediante tecnología innovadora, accesible y confiable.
 
 ### 1.1.1. Descripción de la Startup
 
