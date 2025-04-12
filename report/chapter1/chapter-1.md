@@ -3,15 +3,6 @@ La introducción desempeña un papel fundamental en la estructuración y compren
 
 ## 1.1. Startup Profile
 
-TocaAquí es una plataforma web integral desarrollada para músicos emergentes y espacios culturales como bares, discotecas, centros culturales y promotores de eventos. Su propósito es facilitar la contratación directa de artistas, gestionar espacios disponibles, coordinar la logística de los shows, organizar la programación musical y promover presentaciones en vivo.
-
-A través de una experiencia personalizable tanto para bandas como para promotores, la plataforma ofrece herramientas innovadoras como la firma digital de contratos, pagos seguros mediante un sistema escrow, agenda compartida y promoción automatizada con entradas digitales.
-
-Cada evento cuenta con procesos internos clave como la validación del rider técnico, coordinación de horarios, control de asistencia y evaluación post-evento, asegurando una experiencia profesional y transparente para todas las partes involucradas.
-
-Los músicos pueden crear un perfil artístico, explorar eventos según ubicación y estilo, postularse, firmar contratos y recibir pagos una vez validado el show. Los promotores, por su parte, pueden registrar sus espacios, publicar fechas disponibles, recibir postulaciones filtradas, coordinar la logística y evaluar a las bandas luego de cada presentación.
-
-La visión de TocaAquí es profesionalizar la escena musical independiente mediante una solución digital eficiente que potencie el talento emergente, dinamice la oferta cultural y fortalezca el vínculo entre artistas y promotores.
 
 **Misión:**
 Ofrecer una plataforma digital integral que conecte a músicos emergentes con espacios culturales y promotores de eventos, facilitando la contratación, programación, logística y promoción de presentaciones musicales. A través de herramientas modernas como la firma digital, pagos seguros, agenda compartida y promoción automatizada, buscamos profesionalizar la industria musical independiente y brindar una experiencia transparente y eficiente para todos los usuarios.
