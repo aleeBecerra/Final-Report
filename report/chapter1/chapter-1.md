@@ -4,7 +4,6 @@ La introducción desempeña un papel fundamental en la estructuración y compren
 ## 1.1. Startup Profile
 
 
-
 ### 1.1.1. Descripción de la Startup
 
 
